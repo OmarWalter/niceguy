@@ -1961,7 +1961,7 @@ header.header-appear .navbar-top-default .header-social a:hover {
   }
 }
 .about:before {
-  content: url(../img/about-circle.png);
+  /* content: url(../img/about-circle.png); */
   position: absolute;
   right: -10px;
   top: 200px;
@@ -1987,7 +1987,7 @@ header.header-appear .navbar-top-default .header-social a:hover {
 }
 
 .creative:before {
-  content: url(../img/team-circle.png);
+  /* content: url(../img/team-circle.png); */
   position: absolute;
   left: -10px;
   top: 200px;
@@ -1999,7 +1999,7 @@ header.header-appear .navbar-top-default .header-social a:hover {
     Team
 ====================================== */
 .team:before {
-  content: url(../img/team-circle.png);
+  /* content: url(../img/team-circle.png); */
   position: absolute;
   left: -10px;
   top: 200px;
